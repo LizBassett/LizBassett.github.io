@@ -8,7 +8,7 @@ logo:               'images/profile.JPG'
 background:         'images/background.JPG'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                
+url:                elizabethgracebassett.space
 
 # Jekyll
 permalink:          /:title/
@@ -38,7 +38,7 @@ disqus_shortname:
   #ad-slot:
 #bing-verify:
 email:              Elizabeth.Bassett@colorado.edu
-#twitter:           @dannguyen7
+#twitter:           
 #facebook:          username
 #github:            username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link

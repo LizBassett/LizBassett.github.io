@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Microsoft Creative Brief"
+date:   2016-11-10
+excerpt: "Microsoft Brief"
+project: true
+tag:
+- windows
+- advertising
+comments: true
+---
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/document/d/1Xyp_2KsFlpaPgtF2L6ghXcMfuiVW0CJKTycackxEumI/pub?embedded=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
